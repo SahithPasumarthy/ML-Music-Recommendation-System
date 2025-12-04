@@ -5,8 +5,11 @@ A beautiful, AI-powered music recommendation app built with Streamlit. Discover 
 # Group Number - 7
 
 . 1. Sai Sahith Pasumarthy  700769267
+
 . 2. Koragatla Sai Rithvik  700772455
+
 . 3. Sai Swetha Manuguri    700770652
+
 . 4. Venkata Kranti Kumar Jaddu  700773514
 
 ## Features
@@ -133,5 +136,6 @@ MIT License - Feel free to use and modify!
 ---
 
 Made with ❤️ and 🎵
+
 
 
